@@ -40,7 +40,7 @@ To run this project locally, follow these steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/adityaa1205/Ai-Trip-Planner.git
+    git clone https://github.com/2k22csaiml/Ai-Trip-Planner.git
     cd Ai-Trip-Planner
     ```
 
